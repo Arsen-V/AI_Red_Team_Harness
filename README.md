@@ -9,7 +9,7 @@ failures in LLM guardrails.
 In progress.
 
 ## Targets
-- Self-hosted `llama3` via Ollama (local)
+- Self-hosted `llama3` via Ollama
 - One hosted model (TBD) — for comparison
 
 ## Approach
